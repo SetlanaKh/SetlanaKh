@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SetlanaKh
+- 👋 Hi, I’m @SvetlanaKh
 - 👀 I’m interested in Data Science, Mashine Learning, Automation.
 - 🌱 I’m currently work as a radio ingeneer.
 - 💞️ I’m looking for cooperation to create intresting project to make our lives better.
